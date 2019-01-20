@@ -11,10 +11,10 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
+title:               Mundla Aarthi Sree
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+url:                  https://github.com/MundlaAarthiSree/MundlaAarthiSree.github.io
 baseurl:             /
 paginate:            7
 
@@ -22,7 +22,7 @@ paginate:            7
 author:
   name:              Rizky Ariestiyansyah
   url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  email:              aarthisreemundla@gmail.com
 
 # Custom vars
 version:             2.0
